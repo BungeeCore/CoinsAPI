@@ -1,0 +1,4 @@
+name: CoinsAPI
+version: 1.0
+author: BungeeCore
+main: me.bungeecore.coinsapi.CoinsAPI
